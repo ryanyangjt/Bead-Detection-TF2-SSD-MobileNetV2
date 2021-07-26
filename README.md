@@ -1,1 +1,1 @@
-# Bead-Detection-TF2-SSD-MobileNv2et
+# Bead-Detection-TF2-SSD-MobileNetV2
